@@ -1,4 +1,4 @@
-# 📊 Mongo Recharty
+# 📊 MongoDB E-Commerce Dashboard
 
 A Next.js analytics dashboard for MongoDB data visualization and reporting. Includes interactive charts, KPI cards, and seed scripts for demo data.
 
