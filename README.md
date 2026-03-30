@@ -4,7 +4,7 @@ A Next.js analytics dashboard for MongoDB data visualization and reporting. Incl
 
 ## Demo
 
-[Watch the demo video here](https://github.com/JoshWilliams92/Next_MongoDB_E-Commerce_Analytics/releases/download/v1.0.0/Demo.Video.2026-03-30.mp4)
+[Watch the demo video here](https://github.com/JoshWilliams92/Next_MongoDB_E-Commerce_Analytics/releases/download/V1.0.0/MongoDB.E-Commerce.Analytics.mp4)
 
 ## Features
 
