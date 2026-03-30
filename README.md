@@ -2,6 +2,10 @@
 
 A Next.js analytics dashboard for MongoDB data visualization and reporting. Includes interactive charts, KPI cards, and seed scripts for demo data.
 
+## Demo
+
+[Watch the video here](https://github.com/JoshWilliams92/Next_SAML_HAR_Decoder/releases/download/v1.0.0/SAML.Decoder.with.HAR.file.mp4)
+
 ## Features
 
 - Visualize sales, orders, users, and product data
